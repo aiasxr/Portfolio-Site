@@ -1,0 +1,122 @@
+main {
+    width: 80%;
+    height: 500px;
+    background-color: rgba(194, 194, 194, 0.377);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 80px;
+    border: 0px;
+    position:relative;
+    font-family: 'Merriweather', Verdana, Geneva, Tahoma, sans-serif;
+
+    border-radius: 40px;
+}
+
+p{
+    font-family: 'Merriweather', Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 20px;
+    text-indent: 40px;
+    padding: 20px;
+}
+
+h1 {
+    padding-top: 15px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+body {
+    background-image: url('images/footer_lodyas.png');
+}
+
+#firstTitle {
+    position: relative;
+}
+
+header {
+    background-color: aqua;
+}
+
+#profileImage{
+    width: 37%;
+    height: 300px;
+    position: absolute;
+    left: 2%;
+    border-radius: 50%;
+    float: left;
+    margin-left: 50px;
+}
+
+#profileLinks {
+    width: 60%;
+    height: 100px;
+    left: 5%;
+    position: relative;
+    margin-top: 160px;
+    margin-left: 400px;
+}
+
+#githubHyperLink {
+    color:rgb(0, 174, 255);
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#linkedInHyperLink {
+    color:rgb(0, 174, 255);
+    text-transform: uppercase;
+    margin: 5%;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+
+
+#projects {
+    width: 80%;
+    height: 1400px;
+    background-color: rgba(194, 194, 194, 0.377);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 80px;
+    border: 0px;
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    border-radius: 70px;
+}
+
+article{
+    width: 40%;
+    height: 40%;
+    background-color: rgba(241, 138, 138, 0.692);
+    margin-left: 5%;
+    margin-right: 5%;
+    position: absolute;
+    border-radius: 40px;
+}
+
+#fashionFever {
+    margin-top: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#shareFood {
+    right: 0%;
+    margin-top: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#parallelizingAstar {
+    bottom: 0%;
+    margin-bottom: 40px;
+}
+
+#fileRecoverySystem {
+    bottom: 0%;
+    right: 0%;
+    margin-bottom: 40px;
+}
